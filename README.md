@@ -37,4 +37,9 @@
 
 ## Projects
 - <a href="https://drive.google.com/file/d/1H6n8ps8iCiP7jQek02RZ1iA6VTXo3INI/view" target="_blank" rel="noopener noreferrer"> Analyzing USPS Scan Event Data </a> : developed a comprehensive analytical tool that will utilize USPS package scan data for a given time-period to map the flow of packages within the network and identify factors that led to service failures.
+- <a href="https://drive.google.com/file/d/1pojYQIQG8uvEOHGY1v8sS7d3pugC7pAc/view" target="_blank" rel="noopener noreferrer"> Stock Trading using Machine Learning and Financial Statement Analysis </a> : developed a machine learning based stock price prediction and trading strategy by analyzing financial statements (Income Statements) of companies in the S&P 500 index.
+- <a href="https://drive.google.com/file/d/1vv52w-QdfjSNLlySIdrn_4mfgKA6bKR8/view" target="_blank" rel="noopener noreferrer"> Book Recommender </a> : created a book recommendation system and visualization website using a hybrid approach of content-based, collaborative filtering, and user-guided queries.
+- <a href="https://drive.google.com/file/d/1zVZQbc0i4k5I7Rnj76NGQHu9ns2nt6Vo/view" target="_blank" rel="noopener noreferrer"> Employs a Mixed Integer Linear Programming model to optimally assign sortplans to Delivery Barcode Sorters (DBCS) at Oakland P&DC to minimize the total travel distance from machines to dispatch stalls, and balance machine workload. The reassignment of zones decreased 17 miles of travel per day while utilizing 35 DBCS machines instead of 40, saving $600K annually through reduction in maintenance cost and PIT (Powered Industrial Truck) usage.
+
+
 
