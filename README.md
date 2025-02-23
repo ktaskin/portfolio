@@ -36,5 +36,5 @@
 - Green Belt Certifcation (_July 2018_)
 
 ## Projects
-- <a href="https://drive.google.com/file/d/1H6n8ps8iCiP7jQek02RZ1iA6VTXo3INI/view"> Analyzing USPS Scan Event Data </a> : developed a comprehensive analytical tool that will utilize USPS package scan data for a given time-period to map the flow of packages within the network and identify factors that led to service failures.
+- <a href="https://drive.google.com/file/d/1H6n8ps8iCiP7jQek02RZ1iA6VTXo3INI/view" target="_blank" rel="noopener noreferrer"> Analyzing USPS Scan Event Data </a> : developed a comprehensive analytical tool that will utilize USPS package scan data for a given time-period to map the flow of packages within the network and identify factors that led to service failures.
 
