@@ -36,6 +36,7 @@
 - Green Belt Certifcation (_July 2018_)
 
 ## Projects
+- <a href="https://usps-zone-map.vercel.app/" target="_blank" rel="noopener noreferrer"> React web app to explore USPS Zone profile of Origin ZIP3 (The first 3 digits of a Zip code). The Zone between an Origin and Destination zipcode determines how much a customer is expected to pay for the package delivery. 
 - <a href="https://drive.google.com/file/d/1H6n8ps8iCiP7jQek02RZ1iA6VTXo3INI/view" target="_blank" rel="noopener noreferrer"> Analyzing USPS Scan Event Data </a> : developed a comprehensive analytical tool that will utilize USPS package scan data for a given time-period to map the flow of packages within the network and identify factors that led to service failures.
 - <a href="https://drive.google.com/file/d/1pojYQIQG8uvEOHGY1v8sS7d3pugC7pAc/view" target="_blank" rel="noopener noreferrer"> Stock Trading using Machine Learning and Financial Statement Analysis </a> : developed a machine learning based stock price prediction and trading strategy by analyzing financial statements (Income Statements) of companies in the S&P 500 index.
 - <a href="https://drive.google.com/file/d/1vv52w-QdfjSNLlySIdrn_4mfgKA6bKR8/view" target="_blank" rel="noopener noreferrer"> Book Recommender </a> : created a book recommendation system and visualization website using a hybrid approach of content-based, collaborative filtering, and user-guided queries.
