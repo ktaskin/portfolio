@@ -11,7 +11,7 @@
 **Principal Data Analyst (_2023 - Present_)** <br />
 **Sr. Operations Research Analyst (_2020 - 2023_)**
 - Developed framework to detect fraudulent packages with counterfeit shipping labels based on scan data across USPS network. Identified facilities with high fraud volume and quantified financial and service impact.
-- Built stochastic fraud attribution model to estimate shipper-level fraud risk by identifying consistent fraud exposure patterns across machines, locations, and time with volume-weighted association scores and confidence intervals. Contents of shippers with high-risk scores are intercepted and inspected at point of induction.
+- Built stochastic fraud attribution model to estimate shipper-level fraud risk by identifying consistent fraud exposure patterns across machines, locations, and time to produce volume-weighted association scores and confidence intervals. 
 - Designed predictive models and transportation network simulations to define nationwide delivery service standards and launch Ground Advantage and USPS Connect shipping products.
 - Developed facility allocation model to assign fulfillment of COVID test kits across 46 fulfillment centers and 143 distribution centers based on distance, demand forecast, employee availability etc. The fulfillment network set up based on the model ensured timely fulfillment and delivery of 270 million COVID test kits across United States with 1.2 average days to deliver
 - Built an analytics and visualization tool to provide customers with optimized mixed entry solutions based on entry locations, volume profile & workshare discounts. The tool helped secure service agreements with large volume shippers like DHL, UPS for $5 Billion yearly revenue.
