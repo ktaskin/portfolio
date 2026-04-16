@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, ArcGIS, MATLAB, Optimization (Pulp/OR Tools/Gurobi), Machine Learning, Visualization (PowerBI/Tableau)  
+#### Technical Skills: Python, SQL, ArcGIS, Databricks, Optimization (Pulp/OR Tools/Gurobi), Machine Learning, Visualization (PowerBI/Tableau), Discrete Event Simulation 
 
 ## Education							       		
 - M.S., Analytics	| Georgia Institute of Technology (_December 2024_)	 			        		
@@ -10,7 +10,9 @@
 **United States Postal Service, Business Solutions Network Modeling (HQ)** <br />
 **Principal Data Analyst (_2023 - Present_)** <br />
 **Sr. Operations Research Analyst (_2020 - 2023_)**
-- Designed new product offering like Ground Advantage and USPS Connect to provide reliable national and regional shipping service to retail and business customers.
+- Developed framework to detect fraudulent packages with counterfeit shipping labels based on scan data across USPS network. Identified facilities with high fraud volume and quantified financial and service impact.
+- Built stochastic fraud attribution model to estimate shipper-level fraud risk by identifying consistent fraud exposure patterns across machines, locations, and time with volume-weighted association scores and confidence intervals. Contents of shippers with high-risk scores are intercepted and inspected at point of induction.
+- Designed predictive models and transportation network simulations to define nationwide delivery service standards and launch Ground Advantage and USPS Connect shipping products.
 - Developed facility allocation model to assign fulfillment of COVID test kits across 46 fulfillment centers and 143 distribution centers based on distance, demand forecast, employee availability etc. The fulfillment network set up based on the model ensured timely fulfillment and delivery of 270 million COVID test kits across United States with 1.2 average days to deliver
 - Built an analytics and visualization tool to provide customers with optimized mixed entry solutions based on entry locations, volume profile & workshare discounts. The tool helped secure service agreements with large volume shippers like DHL, UPS for $5 Billion yearly revenue.
 - Utilized market research and historical volume data to forecast package volume growth and sorting capacity needs across USPS facilities. The model was used to create an investment plan of $1.3 Billion to upgrade USPS network for growing package volumes.
